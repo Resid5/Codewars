@@ -9,7 +9,7 @@ namespace _5_Simple_Fun_166_Best_Match
     class Program
     {
         static void Main(string[] args)
-        {
+        {///Using loop for
         }
         public int BestMatch(int[] goals1, int[] goals2)
         {
